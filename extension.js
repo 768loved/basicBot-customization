@@ -108,8 +108,8 @@
         songstats: false,
         commandLiteral: "!",
         blacklists: {
-            NSFW: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
-            OP: "https://rawgit.com/" + fork + "/basicBot-customization/master/blacklists/ExampleOPlist.json"
+            NSFW: "https://rawgit.com/768loved/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
+            OP: "https://rawgit.com/768loved/basicBot-customization/master/blacklists/ExampleOPlist.json"
         }
     }));
 
